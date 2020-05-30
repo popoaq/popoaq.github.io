@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/popoaq.github.io",
+  pathPrefix: "/homepage",
   siteMetadata: {
     title: `Emma Tang`,
     description: `space to gather links`,
