@@ -11,3 +11,6 @@ created using the gatsby static site generator.
     ```
 
     Your site is now running at `http://localhost:8000`!
+
+  Deploy using
+  `npm run deploy`
