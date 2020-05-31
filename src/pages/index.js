@@ -5,12 +5,12 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Emma Tang" />
-    <div style={{"font-size":"30px"}}>Emma Tang</div>
+    <SEO title="emma tang" />
+    <div style={{"font-size":"30px"}}>emma tang</div>
     <div>
-      <a href="https://twitter.com/emmaytang">Twitter</a><br/>
-      <a href="https://thoughtcloud.substack.com/">Words</a><br/>
-      <a href="https://www.linkedin.com/in/emmaytang/">Linkedin</a><br/>
+      <a href="https://twitter.com/emmaytang">twitter</a><br/>
+      <a href="https://thoughtcloud.substack.com/">words</a><br/>
+      <a href="https://www.linkedin.com/in/emmaytang/">linkedin</a><br/>
     </div>
 
   </Layout>
