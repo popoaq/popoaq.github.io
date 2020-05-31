@@ -5,5 +5,8 @@ a {
 
 div {
     line-height: 3;
+    font-family: Helvetica,georgia,serif;
 }
-body {background-color: rgb(255, 254, 252);}
+body {
+    background-color: rgb(255, 254, 252);
+}

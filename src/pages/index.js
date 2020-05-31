@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Emma Tang" />
-    <h1>Emma Tang</h1>
+    <div style={{"font-size":"30px"}}>Emma Tang</div>
     <div>
       <a href="https://twitter.com/emmaytang">Twitter</a><br/>
       <a href="https://thoughtcloud.substack.com/">Words</a><br/>
