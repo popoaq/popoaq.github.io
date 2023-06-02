@@ -14,5 +14,10 @@ created using the gatsby static site generator.
 
   
   make sure you're on the master branch before you deploy 
+
+  usually I kill the master branch, then cut a new branch from develop, then deploy 
+  `git br -D master`
+  `git co -b master`
+  
   Deploy using
   `npm run deploy`
