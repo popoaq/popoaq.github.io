@@ -12,5 +12,7 @@ created using the gatsby static site generator.
 
     Your site is now running at `http://localhost:8000`!
 
+  
+  make sure you're on the master branch before you deploy 
   Deploy using
   `npm run deploy`
